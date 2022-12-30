@@ -4,6 +4,6 @@
     "cypress:run":"cypress run --spec \"cypress\\e2e\\emision_agente.cy.js\""
   },
   "devDependencies": {
-    "cypress": "^10.9.0"
+    "cypress": "12.2.0"
   }
 }
