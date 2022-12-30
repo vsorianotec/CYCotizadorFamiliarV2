@@ -1,0 +1,41 @@
+{
+    "login": {
+        "usuario":"ricardo_sanchez@tokiomarine.com.mx",
+        "contraseña":"Tokio_123"
+    },
+    "paso1": {
+        "rfc":"SOGV861211L29",
+        "moneda":"PESOS",
+        "agente":"01 ARAMIREZ - ADRIAN RAMIREZ GAYTAN",
+        "formaPago":"CONTADO",
+        "ubicaciones":"1"
+    },
+    "paso2": {
+        "codigoPostal":"55743{enter}",
+        "calle":"MESONES",
+        "numeroExt":"136",
+        "numeroInt":"136",
+        "colonia":"REAL GRANADA",
+        "tipoInmueble":"CASA",
+        "tipoUso":"PROPIA Y HABITADA",
+        "niveles":"1",
+        "nivelRiesgo":"1,2",
+        "tipoTecho":"CONCRETO ARMADO",
+        "tipoMuros":"CONCRETO ARMADO",
+        "medidasSeguridad":"CAMARAS DE SEGURIDAD",
+        "saEdificio":"2200000",
+        "saContenidos":"50000",
+        "saPerdidas":"0",
+        "saGastosExtra":"0",
+        "saCristales":"5000",
+        "saRobo":"10000",
+        "saDinero":"0",
+        "saRC":"300000",
+        "saEquipoElectronico":"4900",
+        "saEquipoMovil":"1900"
+    },
+    "paso4": {
+        "tipoIdenti":"INE",
+        "numIdenti":"1234567890"
+    }
+}

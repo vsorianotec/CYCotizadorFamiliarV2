@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "cypress:open":"cypress open --browser edge --e2e",
+    "cypress:run":"cypress run --spec \"cypress\\e2e\\emision_agente.cy.js\""
+  },
+  "devDependencies": {
+    "cypress": "^10.9.0"
+  }
+}
